@@ -1,2 +1,2 @@
 # WindSpeedPredictionMHF
-Wind Speed Prediction
+Wind Speed Prediction Using Matlab
