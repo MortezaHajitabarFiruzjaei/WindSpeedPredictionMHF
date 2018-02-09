@@ -1,9 +1,10 @@
 %==================================================================
 
-%Morteza Hajitabar Firuzjaei
+Morteza Hajitabar Firuzjaei
 
-%Senior Computer Programmer
+Senior Computer Programmer
 
+morteza.mhf@gmail.com
 %==================================================================
 # WindSpeedPredictionMHF
 
